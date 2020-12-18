@@ -16,6 +16,6 @@ step Three : we come to the bot part from the left side and click to " Add Bot "
 <p>
 And Click to "yes do it"
 <p>
-<h2> FİNİSH </h2>
+<h2> FINISH </h2>
 <p>
 The Bot Coding Part Coming Soon .. !
