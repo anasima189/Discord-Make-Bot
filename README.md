@@ -4,6 +4,7 @@
 https://discord.com/developers/applications click to link And Connect your discord account! 
 <p>
 <h2> Warning ! </h2>
+To create a bot, you need to enable 2-step verification on your discord account.!
 <hr/> 
 <p>
 To create a bot, you need to enable 2-step verification on your discord account.!
